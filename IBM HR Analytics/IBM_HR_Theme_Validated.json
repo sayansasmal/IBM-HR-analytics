@@ -1,0 +1,43 @@
+{
+    "name": "IBM HR Analytics Theme",
+    "dataColors": [
+        "#052F61",
+        "#4178BE",
+        "#7CC7FF",
+        "#264A60",
+        "#AEAEAE",
+        "#E71D36",
+        "#2EC4B6",
+        "#FF9F1C"
+    ],
+    "background": "#F4F4F4",
+    "foreground": "#052F61",
+    "tableAccent": "#4178BE",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "title": [
+                    {
+                        "fontFamily": "IBM Plex Sans",
+                        "fontColor": {
+                            "solid": {
+                                "color": "#052F61"
+                            }
+                        },
+                        "fontSize": 14
+                    }
+                ],
+                "labels": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#052F61"
+                            }
+                        },
+                        "fontFamily": "IBM Plex Sans"
+                    }
+                ]
+            }
+        }
+    }
+}
